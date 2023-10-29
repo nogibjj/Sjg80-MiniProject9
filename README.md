@@ -31,13 +31,23 @@ The data manipulation process involves the following steps:
    target_names = iris.target_names
    ```
 
+![descarga](https://github.com/nogibjj/Sjg80-MiniProject9/assets/142270941/0e87c370-a332-4553-be19-0ac2d670243d)
+
 3. **Data Visualization:** We create scatterplots to visualize the relationships between different features and target species to gain insights into the data.
+
+![descarga (1)](https://github.com/nogibjj/Sjg80-MiniProject9/assets/142270941/9bd0dcfd-5f80-4895-9803-6603f3b7df29)
+
 
 4. **Data Preprocessing:** Data preprocessing steps include splitting the dataset into training and testing sets and standardizing the features using StandardScaler.
 
+![descarga (4)](https://github.com/nogibjj/Sjg80-MiniProject9/assets/142270941/e6af2d4a-fd90-4c46-9709-4dbbaf12d83a)
+
 5. **Model Building:** We use a Support Vector Classifier (SVC) model for classification. We perform hyperparameter tuning using GridSearchCV to optimize the model's performance.
 
+
 6. **Evaluation:** The model's performance is evaluated using a confusion matrix to visualize classification results and a scoring metric.
+
+![descarga (2)](https://github.com/nogibjj/Sjg80-MiniProject9/assets/142270941/94c34bf7-acaf-43cd-aa15-544453fef4b6)
 
 ## Access the Notebook on Google Colab
 
@@ -47,8 +57,4 @@ To access the complete notebook with the code and detailed explanations, you can
 
 Simply click on the link, and it will open the notebook in your web browser. You can run the code cells and explore the data manipulation and analysis process in more detail.
 
-Feel free to reach out if you have any questions or need further assistance with the analysis.
 
----
-
-Make sure to replace "your-notebook-link" in the link with the actual link to your hosted Google Colab notebook. This README provides a clear overview of the dataset and the data manipulation process, along with easy access to the hosted notebook.
