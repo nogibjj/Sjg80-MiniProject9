@@ -5,6 +5,9 @@ Cloud-Hosted Notebook Data Manipulation
 
 [![Open In Colab](https://colab.research.google.com/github/shailajgg/Git-Class-Fall-2023/blob/main/Cloud_hosted_notebook.ipynb)
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shailajgg/Git-Class-Fall-2023/blob/main/Cloud_hosted_notebook.ipynb)
+
 Action Items:
 
 Import a sample dataset into the cloud notebook (Ingest stage)
